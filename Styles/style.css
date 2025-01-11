@@ -132,6 +132,12 @@ body {
   border-radius: 16px;
   border: 1px solid #0e0e0e4d;
   margin-top: 32px;
+  background-image: url(../assets/quote-bg.png);
+  background-repeat: no-repeat;
+  background-position: 22px 26px;
+}
+.quote{
+    line-height: 32px;
 }
 .quote-box .designation {
   color: #0e0e0e99;
