@@ -117,15 +117,15 @@ body {
 .banner-sub-title {
   font-size: 24px;
   font-weight: 500px;
-  color: #0e0e0e80; /* 50% opacity */
+  color: #0e0e0e80;
 }
 
 .banner-img-box img {
   width: 474px;
   height: 400px;
 }
-.banner-content{
-    margin-right: 64px;
+.banner-content {
+  margin-right: 64px;
 }
 /* Future vision section styles */
 .quote-box {
@@ -138,8 +138,8 @@ body {
   background-repeat: no-repeat;
   background-position: 22px 26px;
 }
-.quote{
-    line-height: 32px;
+.quote {
+  line-height: 32px;
 }
 .quote-box .designation {
   color: #0e0e0e99;
@@ -212,7 +212,6 @@ body {
   padding: 40px;
   margin-bottom: 32px;
   transition: 1s all;
-  
 }
 .box-1:hover {
   background: rgb(183, 252, 183);
@@ -279,10 +278,9 @@ body {
   border-radius: 0 8px 8px 0;
   border: none;
   transition: 0.3s all;
-
 }
-.input-btn-box button:hover{
-    background: #049e68;
+.input-btn-box button:hover {
+  background: #049e68;
 }
 .input-btn-box input {
   margin-right: 0px;
@@ -294,83 +292,78 @@ body {
 .subscribe-description {
   color: #0e0e0eb3;
 }
-.subscribe-promise{
-    color: #0E0E0EB3
-    ;
+.subscribe-promise {
+  color: #0e0e0eb3;
 }
 
 /* recent news styles */
-.recent-news{
-    margin: 0 150px 80px 150px;
+.recent-news {
+  margin: 0 150px 80px 150px;
 }
-.news-title{
-    font-size: 40px;
-    font-weight: bold;
-    color: #0e0e0e;
+.news-title {
+  font-size: 40px;
+  font-weight: bold;
+  color: #0e0e0e;
 }
-.news-description{
-    color: #0E0E0EB3
-    ;
+.news-description {
+  color: #0e0e0eb3;
 }
-.card-items{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 24px;
-    margin-top: 32px;
-}
-
-.card-item{
-    display: flex;
-    border-radius: 24px;
-    padding: 48px;
-    background: #ffffff;
-    gap: 32px;
-    
+.card-items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  margin-top: 32px;
 }
 
-.schedule-container{
-    display: flex;
-    gap: 20px;
+.card-item {
+  display: flex;
+  border-radius: 24px;
+  padding: 48px;
+  background: #ffffff;
+  gap: 32px;
 }
 
-.card-item button{
-    margin-top: 12px;
+.schedule-container {
+  display: flex;
+  gap: 20px;
 }
 
-.schedule-container{
-    margin: 10px 0;
-}
-.card-item h1{
-    font-size: 32px;
-    color: #0E0E0ECC;;
-    font-weight: bold;
+.card-item button {
+  margin-top: 12px;
 }
 
-.card-item p{
-color: #0E0E0EB3; ;
+.schedule-container {
+  margin: 10px 0;
+}
+.card-item h1 {
+  font-size: 32px;
+  color: #0e0e0ecc;
+  font-weight: bold;
+}
+
+.card-item p {
+  color: #0e0e0eb3;
 }
 
 /* footer styles */
-footer{
-    margin: 80px 150px;
-    text-align: center;
-   
+footer {
+  margin: 80px 150px;
+  text-align: center;
 }
-footer h1{
-    font-size: 32px;
-    font-weight: bold;
-    color: #0e0e0e;
+footer h1 {
+  font-size: 32px;
+  font-weight: bold;
+  color: #0e0e0e;
 }
-hr{
-    margin: 32px;
-    color: #0E0E0E1A
-    ;
+hr {
+  margin: 32px;
+  color: #0e0e0e1a;
 }
 
-.svg-container{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 15px;
+.svg-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
 }
