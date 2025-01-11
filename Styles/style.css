@@ -349,3 +349,27 @@ body {
 .card-item p{
 color: #0E0E0EB3; ;
 }
+
+/* footer styles */
+footer{
+    margin: 80px 150px;
+    text-align: center;
+   
+}
+footer h1{
+    font-size: 32px;
+    font-weight: bold;
+    color: #0e0e0e;
+}
+hr{
+    margin: 32px;
+    color: #0E0E0E1A
+    ;
+}
+
+.svg-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
